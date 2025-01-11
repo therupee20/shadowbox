@@ -1,2 +1,2 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?7E06A2B8674DD3A49E064F663A290298D5F0
+https://prod.liveshare.vsengsaas.visualstudio.com/join?DEF61FD93C0799B8779EDF037140A16F8D24
 link to vs code
